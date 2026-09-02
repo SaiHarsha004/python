@@ -1,0 +1,29 @@
+﻿# Virtual environments & Python installation files
+venv/
+env/
+ENV/
+.env
+.venv
+conda-meta/
+DLLs/
+etc/
+include/
+Lib/
+Library/
+libs/
+Scripts/
+share/
+Tools/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Windows binaries & executables
+*.exe
+*.dll
+*.pdb
+*.bin
+.nonadmin
+
+# VS Code / Jupyter checkpoints
+.ipynb_checkpoints/
